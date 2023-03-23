@@ -4,5 +4,18 @@
 }
 
 .list-container__title {
-    color: red;
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 85%;
+}
+.col-3{
+    border: 2px solid #2b50c7;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    justify-content: flex-end;
+    padding: 10px 10px 2rem;
 }
