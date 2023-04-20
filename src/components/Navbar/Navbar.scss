@@ -1,16 +1,17 @@
 .header {
-    background-color: rebeccapurple;
+    background-color: darkcyan;
     
     .header__container {
         max-width: 900px;
         margin: 0 auto;
         padding: 30px 0;
+    
         display: flex;
         justify-content: space-between;
         align-items: center;
                 
         .header__logo {
-            width: 130px;
+            width: 120px;
         }
 
         .navbar {
@@ -28,5 +29,15 @@
                 margin: 0;
             }
         }
+    }
+
+    .user {
+        max-width: 900px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+        padding: 20px;
     }
 }

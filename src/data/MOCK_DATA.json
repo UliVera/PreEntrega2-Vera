@@ -2,16 +2,16 @@
     {
         "id": 1,
         "name": "Proteina Whey Star Nutrition",
-        "price": 4952.0,
+        "price": 4952,
         "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
         "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/996/230/products/star-nutrition-wheyprotein-1000grs-chocolate-foto-principal-copia-504x5041-b62de4e0a6aff0f86716426230385999-640-0.jpg",
         "category": "proteina",
-        "stock": 1
+        "stock": 52
     },
     {
         "id": 2,
         "name": "Creatina Star Nutrition",
-        "price": 7525.33,
+        "price": 7525,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/446/474/products/1636989941475-cf5a19930779ebd04916373583067560-640-0.png",
         "category": "creatina",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Proteina Whey ENA",
-        "price": 6784.56,
+        "price": 6784,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "http://cdn.shopify.com/s/files/1/0599/3683/3741/collections/ena_whey_protein_true_made.jpg?v=1640267418",
         "category": "proteina",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "Creatina ONEFIT",
-        "price": 1167.87,
+        "price": 1167,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "https://http2.mlstatic.com/D_NQ_NP_716674-MLA51275563537_082022-O.webp",
         "category": "creatina",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "Prework Star Nutrition",
-        "price": 3252.49,
+        "price": 3252,
         "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
         "img": "https://http2.mlstatic.com/D_NQ_NP_826798-MLA42642002810_072020-O.jpg",
         "category": "prework",
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "name": "Prework ENA",
-        "price": 12543.92,
+        "price": 12543,
         "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
         "img": "https://http2.mlstatic.com/D_NQ_NP_823525-MLA50300642705_062022-O.jpg",
         "category": "prework",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "name": "Prework C4",
-        "price": 7983.99,
+        "price": 7983,
         "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
         "img": "https://d2r9epyceweg5n.cloudfront.net/stores/001/614/635/products/d_nq_np_974883-mla44111013442_112020-o1-81c5ad485258a3a68a16529128792074-480-0.jpg",
         "category": "prework",
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "name": "Proteina ONEFIT",
-        "price": 13779.43,
+        "price": 13779,
         "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
         "img": "https://www.nutrishop.com.ar/Temp/App_WebSite/App_PictureFiles/Items/3009_400.jpg",
         "category": "proteina",
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "name": "Creatina GOLD",
-        "price": 2466.88,
+        "price": 2466,
         "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
         "img": "http://goldnutrition.com.ar/images/2022/03/28/creatina_monohidrato_gold_nutrition_doypack.png",
         "category": "creatina",
@@ -83,7 +83,7 @@
     {
         "id": 10,
         "name": "Proteina Ultra Tech",
-        "price": 3399.87,
+        "price": 3399,
         "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "https://www.farmaciassanchezantoniolli.com.ar/6158-large_default/ultra-tech-whey-protein-907g-2-libras-vainilla-prote%C3%ADna-de-suero.jpg",
         "category": "proteina",
@@ -92,7 +92,7 @@
     {
         "id": 11,
         "name": "Creatina HardCore",
-        "price": 3309.85,
+        "price": 3309,
         "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
         "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/954/546/products/creatina-hard-core1-192e2eb99dad28c6ef16417039234932-480-0.jpg",
         "category": "creatina",
@@ -101,7 +101,7 @@
     {
         "id": 12,
         "name": "Proteina Xtrenght",
-        "price": 1262.36,
+        "price": 1262,
         "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
         "img": "https://http2.mlstatic.com/D_NQ_NP_894601-MLA40668046418_022020-O.jpg",
         "category": "proteina",
@@ -110,7 +110,7 @@
     {
         "id": 13,
         "name": "Creatina Xtrenght",
-        "price": 13602.23,
+        "price": 13602,
         "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
         "img": "https://www.xtrenght-nutrition.com/media/fotos_productos/95/Creatine-250-500.png",
         "category": "creatina",
